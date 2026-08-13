@@ -1,0 +1,1 @@
+The data should be downloaded from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
