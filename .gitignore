@@ -1,3 +1,12 @@
 .vscode
 .vscode/
 Data/**/*.csv
+Data/**/*.zip
+Data/**/*.cpg
+Data/**/*.dbf
+Data/**/*.prj
+Data/**/*.qmd
+Data/**/*.shp
+Data/**/*.shx
+Data/**/*.txt
+Images/**/*.png
